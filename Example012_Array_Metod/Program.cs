@@ -1,4 +1,5 @@
 ﻿// Создание метода заполнения таблицы случайными числами и метода вывода таблицы на экран консоли
+
 void FillArray(int[] collection)
 {
     int length = collection.Length;
